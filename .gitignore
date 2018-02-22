@@ -1,1 +1,6 @@
-/bin/
+!librarySystem/
+
+librarySystem/*
+!librarySystem/bin/
+!librarySystem/UML/
+!librarySystem/src/
