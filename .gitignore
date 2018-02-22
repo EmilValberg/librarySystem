@@ -1,6 +1,8 @@
-!librarySystem/
+#Welcome to the gitignore
+.DS_Store
+Library
+Temp
 
-librarySystem/*
-!librarySystem/bin/
-!librarySystem/UML/
-!librarySystem/src/
+!/bin/
+!/UML/
+!/src/
